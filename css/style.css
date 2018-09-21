@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background:
+    linear-gradient(55deg, rgb(76, 75, 78) 0%, hsla(252, 96%, 45%, 0) 70%),
+    linear-gradient(125deg, rgb(146, 142, 142) 10%, hsla(360, 95%, 42%, 0) 80%),
+    linear-gradient(245deg, rgb(69, 80, 73) 10%, hsla(140, 91%, 45%, 0) 80%),
+    linear-gradient(305deg, rgb(113, 117, 110) 100%, hsla(90, 96%, 49%, 0) 70%);
+}
+.page-header{
+	text-align: center;
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	padding: 35px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	border-bottom:3px solid rgb(235, 44, 44);
+	border-left: 30px solid rgb(133, 53, 53);
+	border-right: 30px solid rgb(90, 31, 31);
+	border-top: 1px solid rgb(126, 45, 45);
+	border-radius: 15px 15px 70px 70px;
+	-moz-border-radius: 15px 15px 70px 70px;
+	-webkit-border-radius: 15px 15px 70px 70px;
+}
+.nava{
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	margin-bottom: 10px;
+	padding: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border:3px solid black;
+	border-bottom:3px solid rgb(68, 50, 50);
+	border-left: 30px solid rgb(100, 70, 70);
+	border-right: 30px solid rgb(97, 70, 70);
+	border-top: 1px solid rgb(71, 61, 61);
+	border-radius: 70px 70px 15px 15px;
+	-moz-border-radius: 70px 70px 15px 15px;
+	-webkit-border-radius: 70px 70px 15px 15px;
+}
+.im1{
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	margin-bottom: 15px;
+	padding:15px;
+	border:3px solid rgb(83, 57, 57);
+	margin-left:5px;
+	margin-right: 5px;
+	border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+}
+.carousel-inner{
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	margin-bottom: 5px;
+	padding:5px;
+	
+}
+.im2{
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	margin-bottom: 5px;
+	padding:5px;
+	
+}
+.t{
+	background-image:url(imagen/head.png);
+	font-size: 20px;
+	margin-bottom: 5px;
+	border:3px solid rgb(128, 72, 72);
+	border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+}
+form{
+	background-image:url(imagen/head.png);
+	font-size:15px;
+	padding:25px;
+	margin-bottom: 5px;
+	border:3px solid rgb(109, 77, 77);
+	border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+}
+
+.fo{
+	text-align: center;
+	background-image:url(imagen/head.png);
+	font-size: 25px;
+	margin: 10px;
+	padding:15px;
+	border:3px solid rgb(92, 70, 70);
+	border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+}
